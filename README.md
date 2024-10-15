@@ -1,5 +1,6 @@
 # Sales-Dashboard-Excel
 
+![Dashboard](https://github.com/agujalwar/Sales-Dashboard-Excel/blob/main/Sales%20Dashboard%20V2.png)
 
 ## Project Objectives:
 - Sales Analysis: Analyze total sales, cost, profit, and transaction count across various regions and sales reps.
